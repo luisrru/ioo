@@ -1,1 +1,2 @@
-mkdir lanueva
+@echo off
+mkdir garapo.txt
